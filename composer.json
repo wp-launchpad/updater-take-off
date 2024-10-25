@@ -11,7 +11,7 @@
     }
   ],
   "require-dev": {
-    "wp-launchpad/updater": "^0.0"
+    "wp-launchpad/updater": "^0.3"
   },
   "extra": {
     "launchpad": {
